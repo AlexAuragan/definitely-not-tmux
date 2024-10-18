@@ -1,3 +1,7 @@
+<h1 align="center">
+  In some version of tmux, the fact that the original Catppuccin Tmux repo is named "tmux" can cause conflit. A quick fix is to change the name of the repo / work the repo with another name.
+</h1>
+
 <h3 align="center">
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
